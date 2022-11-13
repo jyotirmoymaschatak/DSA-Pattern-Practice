@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hollow Rhombus", "Hollow Rh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Pyramid", "Number Pyramid\Number Pyramid.csproj", "{9B85B7D1-135C-41DB-A566-0854F07E4DF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panildrom Pattern with Numbers", "Panildrom Pattern with Numbers\Panildrom Pattern with Numbers.csproj", "{01C64171-BF22-481C-A57F-110F2050499C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{9B85B7D1-135C-41DB-A566-0854F07E4DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B85B7D1-135C-41DB-A566-0854F07E4DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B85B7D1-135C-41DB-A566-0854F07E4DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C64171-BF22-481C-A57F-110F2050499C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C64171-BF22-481C-A57F-110F2050499C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C64171-BF22-481C-A57F-110F2050499C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C64171-BF22-481C-A57F-110F2050499C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
