@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Pyramid", "Number Py
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panildrom Pattern with Numbers", "Panildrom Pattern with Numbers\Panildrom Pattern with Numbers.csproj", "{01C64171-BF22-481C-A57F-110F2050499C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kunal DSA Pattern No 35", "Kunal DSA Pattern No 35\Kunal DSA Pattern No 35.csproj", "{D880703D-D5D9-45C6-8BB5-C19235BF8E12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{01C64171-BF22-481C-A57F-110F2050499C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01C64171-BF22-481C-A57F-110F2050499C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01C64171-BF22-481C-A57F-110F2050499C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D880703D-D5D9-45C6-8BB5-C19235BF8E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D880703D-D5D9-45C6-8BB5-C19235BF8E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D880703D-D5D9-45C6-8BB5-C19235BF8E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D880703D-D5D9-45C6-8BB5-C19235BF8E12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
